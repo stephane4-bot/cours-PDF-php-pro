@@ -104,7 +104,7 @@ $donnees = $request->fetchAll();
                 
             </tbody>
 
-les chose de la terre 
+
             
         </table>
     </div>
